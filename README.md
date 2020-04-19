@@ -33,4 +33,4 @@ Documentation
 
 Go to <http://localhost:80/docs>
 
-![](https://raw.githubusercontent.com/ddangelov/Top2Vec/master/images/restful-top2vec.png)
+![](https://raw.githubusercontent.com/ddangelov/RESTful-Top2Vec/master/images/restful-top2vec.png)
