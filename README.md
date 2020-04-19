@@ -5,7 +5,7 @@
 Top2Vec Model REST API
 ======================
 
-Expose a trained and saved Top2Vec model with a REST API.
+Expose a trained and saved [Top2Vec](https://github.com/ddangelov/Top2Vec) model with a REST API.
 
 Get Docker Image
 ------------
