@@ -1,5 +1,5 @@
 [![](https://img.shields.io/pypi/v/top2vec.svg)](https://pypi.org/project/top2vec/)
-[![](https://img.shields.io/pypi/l/top2vec.svg)](https://github.com/ddangelov/Top2Vec/blob/master/LICENSE)
+[![](https://img.shields.io/pypi/l/top2vec.svg)](https://github.com/ddangelov/RESTful-Top2Vec/blob/master/LICENSE)
 [![Documentation Status](https://readthedocs.org/projects/restful-top2vec/badge/?version=latest)](https://restful-top2vec.readthedocs.io/en/latest/?badge=latest)
 
 
