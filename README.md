@@ -1,6 +1,6 @@
 [![](https://img.shields.io/docker/v/ddangelov/restful-top2vec?label=docker)](https://hub.docker.com/r/ddangelov/restful-top2vec)
 [![](https://img.shields.io/pypi/l/top2vec.svg)](https://github.com/ddangelov/RESTful-Top2Vec/blob/master/LICENSE)
-[![Documentation Status](https://readthedocs.org/projects/restful-top2vec/badge/?version=latest)](https://restful-top2vec.readthedocs.io/en/latest/?badge=latest)
+[![](https://readthedocs.org/projects/restful-top2vec/badge/?version=latest)](https://restful-top2vec.readthedocs.io/en/latest/?badge=latest)
 
 
 Top2Vec Model REST API
