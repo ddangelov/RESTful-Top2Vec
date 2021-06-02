@@ -47,7 +47,7 @@ smart-open==1.10.0
 starlette==0.13.2
 top2vec==1.0.8
 umap-learn==0.3.10
-urllib3==1.25.8
+urllib3==1.26.5
 uvicorn==0.11.7
 uvloop==0.14.0
 websockets==8.1
