@@ -20,7 +20,7 @@ hdbscan==0.8.26
 httptools==0.1.1
 idna==2.9
 jmespath==0.9.5
-joblib==0.14.1
+joblib==1.2.0
 kiwisolver==1.1.0
 llvmlite==0.31.0
 matplotlib==3.2.1
